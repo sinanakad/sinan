@@ -12,4 +12,8 @@ ortalama = "80"
 print(ad,soyad,ortalama)
 
 
-"deneme notumuz"
+a = 5
+b = 10
+c = 2
+print('a'+'b')
+print(a+b-c)
