@@ -10,3 +10,6 @@ ad = "SUDE"
 soyad ="KOLUKISAOĞLU"
 ortalama = "80"
 print(ad,soyad,ortalama)
+
+
+"deneme notumuz"
