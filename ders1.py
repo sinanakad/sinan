@@ -19,11 +19,15 @@ print('a'+'b')
 
 
 
-print("eren'in annesi gel dedi")  
+print("eren'in annesi gel dedi") 
+#parantez içerisinde üsten tırnak ile ayırmamız gereken bir cümle var ise tırnaktan önce \ koymamız gerekşyor 
 print("gelir misin")
 
 print('sude\'nin annesi "gel" dedi')
 
 print("sude \nkolukısaoglu \n2005")
+# \n cümlenin alt satıra yazılmasına yarar \n den sonra boşluk bırakırsak alt satır boşluk bırakarak başlar
 print("sinan \t kolukısaogu \t 1982")
+#\t arasında tab boşlugu bırakmak istediğin cümlenin önüne yazılır \t den sonra boşluk bıraırsan hem tab hmde 1 adet boşluk bırakır
 print("pazartesi \nsalı \nçarşamba \nperşembe \ncuma \ncumartesi \npazar")
+
