@@ -25,3 +25,5 @@ print("gelir misin")
 print('sude\'nin annesi "gel" dedi')
 
 print("sude \nkolukısaoglu \n2005")
+print("sinan \t kolukısaogu \t 1982")
+print("pazartesi \nsalı \nçarşamba \nperşembe \ncuma \ncumartesi \npazar")
