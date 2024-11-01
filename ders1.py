@@ -16,4 +16,12 @@ a = 5
 b = 10
 c = 2
 print('a'+'b')
-print(a+b-c)
+
+
+
+print("eren'in annesi gel dedi")  
+print("gelir misin")
+
+print('sude\'nin annesi "gel" dedi')
+
+print("sude \nkolukısaoglu \n2005")
